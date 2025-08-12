@@ -16,3 +16,5 @@ python main.py
 ```
 
 **Make sure to allow Bluetooth**
+
+Had to use Bleak instead of D-Bus for MacOS.
